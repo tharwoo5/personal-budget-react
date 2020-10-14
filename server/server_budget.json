@@ -1,0 +1,11 @@
+{
+  "myBudget": [
+    { "title": "Car", "budget": 250 },
+    { "title": "House", "budget": 2500 },
+    { "title": "Grocery", "budget": 350 },
+    { "title": "IRA", "budget": 250 },
+    { "title": "SMALL_STOCK", "budget": 150 },
+    { "title": "MEDIUM_CAP", "budget": 100 },
+    { "title": "FOREX", "budget": 75 }
+  ]
+}
